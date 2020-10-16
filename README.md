@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 # Tomu Quickstart Guide
 
 This guide describes everything you need to set up your system to develop for [Tomu](https://tomu.im/).
